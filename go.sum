@@ -1,0 +1,6 @@
+github.com/Senhnn/shlev v0.0.0-20230814152750-2b3811896239 h1:s6aMfRXqQJU9TfiRhtTb1Gy1c1ICJYq4jeP10oLPBws=
+github.com/Senhnn/shlev v0.0.0-20230814152750-2b3811896239/go.mod h1:fZnD3HCrKyYeFr85w64OQsrcjSQuYe4tsfs+6LY8JSM=
+github.com/Senhnn/shlev v1.0.0 h1:heX1czoc7ZsglmjFXc0vsmTNis/VqiwNCWU+jj4yp5o=
+github.com/Senhnn/shlev v1.0.0/go.mod h1:fZnD3HCrKyYeFr85w64OQsrcjSQuYe4tsfs+6LY8JSM=
+golang.org/x/sys v0.1.0 h1:kunALQeHf1/185U1i0GOB/fy1IPRDDpuoOOqRReG57U=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
